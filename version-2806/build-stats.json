@@ -1,0 +1,19 @@
+{
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "video_source_count": 20,
+  "category_counts": {
+    "cat-01": 200,
+    "cat-02": 200,
+    "cat-03": 200,
+    "cat-04": 200,
+    "cat-05": 200,
+    "cat-06": 200,
+    "cat-07": 200,
+    "cat-08": 200,
+    "cat-09": 200,
+    "cat-10": 200
+  }
+}
